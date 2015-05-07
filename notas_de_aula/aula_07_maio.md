@@ -89,7 +89,9 @@ já vistos na disciplina, e os próximos conceitos, tais como bancos de dados - 
 [mysql_free_result](http://php.net/manual/pt_BR/function.mysql-free-result.php)
 
 
-[Lista com todas as funções](http://php.net/manual/en/book.mysql.php)
+## Referência Geral
+
+[Lista com todas as funções](http://php.net/manual/pt_BR/book.mysql.php)
 
 
 
