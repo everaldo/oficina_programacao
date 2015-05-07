@@ -13,10 +13,12 @@ pode ser um número inteiro e sequencial: 1 para a primeira página, 2 para a se
 
 Exemplo:
 
-Usuário entra com: wwww.pucpr.br
+Usuário entra com: www.pucpr.br
+
 Sistema retorna: 1
 
 Usuário entra com: www.wikipedia.com.br
+
 Sistema retorna: 2
 
 
@@ -26,9 +28,11 @@ não deve retornar nenhuma página para o usuário, mas sim redirecioná-lo para
 Exemplo:
 
 Usuário entra com: 1
+
 Sistema redireciona para www.pucpr.br
 
 Usuário entra com: 2
+
 Sistema redireciona para www.wikipedia.com.br
 
 Dado que, esses foram os valores previamente cadastrados.
