@@ -1,4 +1,34 @@
-# Projeto Proposto
+# Projetos para as Próximas Aulas
+
+Os projetos abaixo serão implementados nesta e nas próximas aulas, conforme definido adiante.
+
+
+## Projeto Contador de Visitas
+
+Projetar um site com banco de dados para armazenar a quantidade total de visitas de um site.
+
+
+Mostre uma tabela com a quantidade total de visitas por dia, e no final, o total consolidado.
+
+
+## Projeto Log de Acesso
+
+Projetar um site com banco de dados para armazenar um Log com informações de acesso do usuário: IP, horário, nome da página.
+
+O site deve ter 1 página, nesta primeira versão, que exibe uma tabela com as informações do Log de Acesso já registradas, inclusive a visita atual.
+
+
+
+## Projeto Chove ou Não-Chove
+
+Projetar uma página, com um formulário com a seguinte pergunta: Chove ou Não-Chove em Curitiba, no dia de hoje.
+As opções de resposta são SIM e NÃO.
+
+O sistema deve armazenar as respostas num banco de dados, e exibir a porcentagem das escolhas para cada dia.
+
+
+
+## Projeto Encurtador de URL
 
 Criar uma primeira versão de um serviço encurtador de URL (semelhante ao http://tinyurl.com)
 Esse projeto terá novas funcionalidades adicionadas ao longo das aulas.
