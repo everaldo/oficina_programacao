@@ -94,6 +94,46 @@ já vistos na disciplina, e os próximos conceitos, tais como bancos de dados - 
 [Lista com todas as funções](http://php.net/manual/pt_BR/book.mysql.php)
 
 
+# Referência MySQL
+
+### Criar, alterar e remover usuário
+
+[CREATE USER](http://dev.mysql.com/doc/refman/5.6/en/create-user.html)
+
+[ALTER USER](http://dev.mysql.com/doc/refman/5.6/en/alter-user.html)
+
+[DROP USER](http://dev.mysql.com/doc/refman/5.6/en/drop-user.html)
+
+### Garantir e retirar privilégios de usuários
+
+[GRANT](http://dev.mysql.com/doc/refman/5.6/en/grant.html)
+
+[REVOKE](http://dev.mysql.com/doc/refman/5.6/en/revoke.html)
+
+### Criar e remover banco de dados
+
+[CREATE DATABASE](http://dev.mysql.com/doc/refman/5.6/en/create-database.html)
+
+[DROP DATABASE](http://dev.mysql.com/doc/refman/5.6/en/drop-database.html)
+
+### Criar e remover tabelas
+
+[CREATE TABLE](http://dev.mysql.com/doc/refman/5.6/en/create-table.html)
+
+[DROP TABLE](http://dev.mysql.com/doc/refman/5.6/en/drop-table.html)
+
+
+### Selecionar, atualizar, inserir e remover dados
+
+[SELECT](http://dev.mysql.com/doc/refman/5.6/en/select.html)
+
+[UPDATE](http://dev.mysql.com/doc/refman/5.6/en/update.html)
+
+[INSERT](http://dev.mysql.com/doc/refman/5.6/en/insert.html)
+
+[DELETE](http://dev.mysql.com/doc/refman/5.6/en/delete.html)
+
+
 
 
 
