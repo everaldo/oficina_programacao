@@ -45,46 +45,46 @@ já vistos na disciplina, e os próximos conceitos, tais como bancos de dados - 
 # PHP/MySQL
 
 
-# Criar banco de dados
+### Criar banco de dados
 
 [mysql_createdb](http://php.net/manual/pt_BR/function.mysql-create-db.php)
 
-# Conectar-se ao servidor
+### Conectar-se ao servidor
 
 [mysql_connect](http://php.net/manual/pt_BR/function.mysql-connect.php)
 
-# Selecionar banco de dados
+### Selecionar banco de dados
 
 [mysql_select_db](http://php.net/manual/pt_BR/function.mysql-select-db.php)
 
 
-# Para consultas: SELECT, INSERT, UPDATE, DELETE
+### Para consultas: SELECT, INSERT, UPDATE, DELETE
 
 [mysql_query](http://php.net/manual/pt_BR/function.mysql-query.php)
 
-# Inspecionar erro e código de erro, caso uma consulta falhe
+### Inspecionar erro e código de erro, caso uma consulta falhe
 
 [mysql_error)(http://php.net/manual/pt_BR/function.mysql-error.php)
 
 [mysql_errno](http://php.net/manual/pt_BR/function.mysql-errno.php)
 
-# Contar o número de linhas retornadas (caso a consulta não tenha sido bufferizada)
+### Contar o número de linhas retornadas (caso a consulta não tenha sido bufferizada)
 
 [mysql_num_rows](http://php.net/manual/pt_BR/function.mysql-num-rows.php)
 
 
-# Obter dados da consulta e move ponteiro adiante
+### Obter dados da consulta e move ponteiro adiante
 
 [mysql_fetch_assoc](http://php.net/manual/en/function.mysql-fetch-assoc.php)
 
 [mysql_fetch_array](http://php.net/manual/en/function.mysql-fetch-array.php)
 
 
-# Obter dados da linha, num array
+### Obter dados da linha, num array
 
 [mysql_fetch_row](http://php.net/manual/pt_BR/function.mysql-fetch-assoc.php)
 
-# Liberar recursos
+### Liberar recursos
 
 [mysql_free_result](http://php.net/manual/pt_BR/function.mysql-free-result.php)
 
