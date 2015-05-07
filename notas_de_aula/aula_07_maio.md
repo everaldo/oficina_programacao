@@ -17,7 +17,7 @@ Projetar um site com banco de dados para armazenar um Log com informações de a
 
 O site deve ter 1 página, nesta primeira versão, que exibe uma tabela com as informações do Log de Acesso já registradas, inclusive a visita atual.
 
-
+Dica: procure na variável global [_$SERVER](http://php.net/manual/pt_BR/reserved.variables.server.php)
 
 ## Projeto Chove ou Não-Chove
 
@@ -70,6 +70,8 @@ Dado que, esses foram os valores previamente cadastrados.
 
 Como mencionado anteriormente, esse projeto será melhorado ao longo das próximas aulas, integrando todos os conceitos
 já vistos na disciplina, e os próximos conceitos, tais como bancos de dados - MySQL
+
+Dica: pesquisa a função header - [header](http://php.net/manual/pt_BR/function.header.php)
 
 
 # PHP/MySQL
