@@ -96,7 +96,7 @@ Dica: pesquisa a função header - [header](http://php.net/manual/pt_BR/function
 
 ### Inspecionar erro e código de erro, caso uma consulta falhe
 
-[mysql_error)(http://php.net/manual/pt_BR/function.mysql-error.php)
+[mysql_error](http://php.net/manual/pt_BR/function.mysql-error.php)
 
 [mysql_errno](http://php.net/manual/pt_BR/function.mysql-errno.php)
 
