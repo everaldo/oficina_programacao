@@ -114,7 +114,7 @@ Dica: pesquisa a função header - [header](http://php.net/manual/pt_BR/function
 
 ### Obter dados da linha, num array
 
-[mysql_fetch_row](http://php.net/manual/pt_BR/function.mysql-fetch-assoc.php)
+[mysql_fetch_row](http://php.net/manual/pt_BR/function.mysql-fetch-row.php)
 
 ### Liberar recursos
 
